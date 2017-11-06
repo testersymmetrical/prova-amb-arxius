@@ -1,9 +1,8 @@
 # prova-amb-arxius
 
-Hola, em dic Maria, tinc 23 anys i sóc de Sant Just Desvern.
+Hola, em dic Maria, tinc 22 anys i sóc de Barcelona.
 
 Tinc molta gana 
 
-Verb a.lot Noun
 
 Avui és 3/11/2017
