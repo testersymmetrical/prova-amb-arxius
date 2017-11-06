@@ -1,6 +1,6 @@
 # prova-amb-arxius
 
-Hola, em dic Maria, tinc 22 anys i sóc de Barcelona.
+Hola, em dic Maria, tinc 23 anys i sóc de Barcelona.
 
 Tinc molta gana 
 
